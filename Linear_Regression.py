@@ -1,7 +1,7 @@
 '''
 Created on 2019年11月19日
 
-@author: genzhou
+@author: 
 '''
 from __future__ import print_function
 import tensorflow.compat.v1 as tf
